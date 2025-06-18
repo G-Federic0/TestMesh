@@ -1,0 +1,23 @@
+{
+  "uploadEntries": [
+    {
+      "assetId": "3e7987cb-8d52-44fa-b3d9-3540891cbd0c",
+      "name": "Test",
+      "isEnabled": true,
+      "uploadItems": [
+        {
+          "prefabFilepath": "Assets/Scenes/SampleScene.unity",
+          "buildPlatforms": [
+            "android",
+            "pc"
+          ]
+        }
+      ],
+      "perPlatformAssets": false,
+      "thumbnailImagesFolder": "Assets\\MeshToolkit\\Thumbnails\\3e7987cb",
+      "includeThumbnail": false,
+      "thumbnailGenerationBehavior": "Autogenerate",
+      "metaverseId": "bcf5ebc5-f3c9-446f-a6d1-eb5b327bd41c"
+    }
+  ]
+}
